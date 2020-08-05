@@ -1,3 +1,7 @@
 #print 
 
 print('welcome python')
+
+
+#print + op
+print('welcome python','welcome java')
