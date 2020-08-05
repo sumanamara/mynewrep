@@ -1,2 +1,6 @@
 #list
 list1 =[1,3,5]
+
+
+#list
+print(list1)
